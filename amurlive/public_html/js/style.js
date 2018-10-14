@@ -1,0 +1,1 @@
+new DGWidgetLoader({"width":9000,"margin-top":3,"height":592,"borderColor":"#a3a3a3","pos":{"lat":50.304513296265036,"lon":127.54535794258119,"zoom":16},"opt":{"city":"blagoveshensk"},"org":[{"id":"7318877675605198"}]});
