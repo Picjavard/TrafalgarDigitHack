@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1023263632912",
+    "firebase_url": "https://amursulive.firebaseio.com",
+    "project_id": "amursulive",
+    "storage_bucket": "amursulive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023263632912:android:c41cf5b453f91d11",
+        "android_client_info": {
+          "package_name": "com.studio.trafalgar.amursulive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023263632912-8tnrbi74vs19c76r7d40g9o7hfhstffl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studio.trafalgar.amursulive",
+            "certificate_hash": "e53f12b734479f6b5ae1a90feac07bbc1483eb2c"
+          }
+        },
+        {
+          "client_id": "1023263632912-r6abggosvphsgrda1icsvvbfh18sljdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_hQxI4wnmlOWNZF2X5usKh-Df2UZx4AE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023263632912-r6abggosvphsgrda1icsvvbfh18sljdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
